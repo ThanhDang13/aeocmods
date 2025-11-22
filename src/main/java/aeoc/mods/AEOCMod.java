@@ -1,9 +1,8 @@
 package aeoc.mods;
 
-import aeoc.mods.items.GachaGroup;
+import aeoc.mods.items.gacha.GachaGroup;
 import net.fabricmc.api.ModInitializer;
 
-import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;

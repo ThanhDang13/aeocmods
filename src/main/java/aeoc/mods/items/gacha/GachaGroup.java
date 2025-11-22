@@ -1,6 +1,5 @@
-package aeoc.mods.items;
+package aeoc.mods.items.gacha;
 
-import aeoc.mods.items.gacha.GachaCapsuleItem;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;

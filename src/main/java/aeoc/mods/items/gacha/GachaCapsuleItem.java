@@ -17,7 +17,6 @@ import static aeoc.mods.items.gacha.GachaBanner.DEFAULT_BANNER;
 
 public class GachaCapsuleItem extends Item {
 
-
     public GachaCapsuleItem(Settings settings) {
         super(settings);
     }

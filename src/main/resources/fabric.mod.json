@@ -19,7 +19,7 @@
 			"aeoc.mods.AEOCMod"
 		],
 		"fabric-datagen": [
-			"aeoc.mods.GachaModDataGenerator"
+			"aeoc.mods.AEOCModDataGenerator"
 		]
 	},
 	"mixins": [
